@@ -4,4 +4,5 @@
 3.pascal triangle
 4. Pattern of prime numbers.
 5. Minimum jump to required to go to end of array
+6. longest palindromic sub string
 
